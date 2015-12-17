@@ -1,2 +1,2 @@
 ## DataScience
-# Repository for Dat Science activities
+# Repository for Data Science activities
